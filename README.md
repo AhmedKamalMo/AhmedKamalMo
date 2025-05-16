@@ -48,7 +48,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
-
----
-
-📈 *"Building scalable web apps and APIs with passion and precision!"*
